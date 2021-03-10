@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "UrhrWcooPTvvhE6HG3ChHvZFhHQ+IK++Eu216s4AecSxUTD7KPvDbSAdBHPQsrxKSuIf/L9vjcntKZJBjG81qg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\90531\\Desktop\\Full\\UcuzUrunum\\EnUcuzUrun.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\90531\\.nuget\\packages\\htmlagilitypack\\1.11.30\\htmlagilitypack.1.11.30.nupkg.sha512",
+    "C:\\Users\\90531\\.nuget\\packages\\htmlagilitypack.cssselectors.netcore\\1.2.1\\htmlagilitypack.cssselectors.netcore.1.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}
