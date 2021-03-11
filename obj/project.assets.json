@@ -95,23 +95,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\90531\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\besir.gunduz\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\90531\\Desktop\\Full\\UcuzUrunum\\EnUcuzUrun.csproj",
+      "projectUniqueName": "C:\\Users\\besir.gunduz\\Source\\Repos\\UcuzUrunum\\EnUcuzUrun.csproj",
       "projectName": "EnUcuzUrun",
-      "projectPath": "C:\\Users\\90531\\Desktop\\Full\\UcuzUrunum\\EnUcuzUrun.csproj",
-      "packagesPath": "C:\\Users\\90531\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\90531\\Desktop\\Full\\UcuzUrunum\\obj\\",
+      "projectPath": "C:\\Users\\besir.gunduz\\Source\\Repos\\UcuzUrunum\\EnUcuzUrun.csproj",
+      "packagesPath": "C:\\Users\\besir.gunduz\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\besir.gunduz\\Source\\Repos\\UcuzUrunum\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\90531\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\besir.gunduz\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -164,7 +160,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }
